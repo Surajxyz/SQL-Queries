@@ -6,5 +6,5 @@
 
 3.SQL-Assignment 2.sql contains the solutions of Assignment 2.
 
-4. SQL Case Study.sql contains the solutions of Case Study.
+4.SQL Case Study.sql contains the solutions of Case Study.
 
